@@ -1,4 +1,4 @@
-# f = open("C:\\Users\\phili\\OneDrive\\Documents\\JJTech-AWS-Project-Scripts\\Programming_Foundations_Fundamentals\\Exercise Files\\chap099999\\james.txt", "r")
+# f = open("folder", "r")
 
 # print(f.read())
 
